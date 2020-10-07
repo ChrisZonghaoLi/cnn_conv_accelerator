@@ -18,8 +18,7 @@ accelerator.
 - For the Eyeriss paper, please visit: https://ieeexplore.ieee.org/document/7738524/
 - For CIFAR-10 dataset, please visit: https://www.cs.toronto.edu/~kriz/cifar.html
 
-Due to the reasearch NDA, some details regarding the OPAL will not be illustrated in details. For the access to my report, please 
-email the author zonghao.lee@gmail.com for the password. 
+Due to the research NDA, some details regarding the OPAL will not be illustrated in details. For the access to my report, the password for the zip file is 260787179. 
 
 ## 2. Structure of this repository
 
